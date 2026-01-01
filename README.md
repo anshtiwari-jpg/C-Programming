@@ -59,5 +59,16 @@
 32. Arithmetic operations using call by reference  
 33. Factorial using call by reference  
 ---
+Arrays
+
+34. Read 5 integers into an array and print them
+
+35. Store n numbers in an array and find their sum
+
+36. Delete an element from a specified position in an array
+
+37. Search for a given number in an array using linear search
+
+38. Sort the elements of an array in ascending order
 
 
